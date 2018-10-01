@@ -1,0 +1,25 @@
+**Institution website:** www.ccboe.net
+(https://github.com/leereilly/swot/files/1438773/imsu.txt)
+
+**Email Users**
+- [x] Students
+
+- [ ] Academic Staff
+
+- [ ] Non Academic Staff
+
+- [ ] Vice Chancellor
+**Education levels** 
+
+- [ ] primary school or equivalent 
+
+- [ ] secondary school or equivalent 
+
+- [ ] post secondary school or equivalent 
+
+- [x] undergraduate or equivalent 
+
+- [ ] graduate 
+
+- [ ] post - graduate
+
